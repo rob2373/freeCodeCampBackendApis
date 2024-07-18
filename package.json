@@ -8,6 +8,7 @@
 		"start": "node server.js"
 	},
 	"author": "Roberto Robles Castro",
+	"description": "Aprendiendo la creacion de apis con nodejs",
   	"license": "ISC",
 	"repository": {
 		"type": "git",
